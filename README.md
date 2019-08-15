@@ -19,4 +19,9 @@ A demonstration on how to put a graph into your Svelte project using Chart JS.
 
 You can suggest or pull a request if you want to add new feature to this demo.
 
+Instrunction on how to run in your local machine:
+1. npm install 
+2. npm run dev (http://localhost:5000)
+
 Hit the ![star icon](https://img.icons8.com/color/18/000000/star--v2.png) if you clone or have interest to this. ** *Thanks!* **
+
