@@ -10,6 +10,10 @@ A demonstration on how to put a graph into your Svelte project using Chart JS.
 * [Svelte Master](https://www.youtube.com/channel/UCg6SQd5jnWo5Y70rZD9SQFA)
 
 
+**DEMO**
+* Working demo [here](https://mat-chartjs.netlify.com/)
+
+
 **Feature**
 * Update the graph after updating the value of the data.
 
